@@ -1,7 +1,7 @@
 BookAPP
 =======
 
-Proiectul pentru IS, BookstoreApp
+IS project, BookstoreApp
  
  
  
